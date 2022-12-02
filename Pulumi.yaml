@@ -1,0 +1,3 @@
+name: apigateway-fargate-demo-base
+description: A minimal AWS TypeScript Pulumi program
+runtime: nodejs
